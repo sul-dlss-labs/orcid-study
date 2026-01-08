@@ -6,4 +6,4 @@ The data isn't committed to the repository, but can be obtained by:
 
 1. `cp env.example` `.env`
 2. add the `SULPUB_KEY` to `.env`
-3. uv run data
+3. `uv run python data.py`
